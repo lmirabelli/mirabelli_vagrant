@@ -1,0 +1,59 @@
+    1  whoami
+    2  pwd
+    3  cd repogit
+    4  ls
+    5  cd ..
+    6  cat README 
+    7  git clone https://github.com/lmirabelli/mirabelli_vagrant.git
+    8  ls
+    9  cd mirabelli_vagrant/
+   10  ls
+   11  history > historial.txt
+   12  ls
+   13  cat historial.txt 
+   14  git status
+   15  git add --all
+   16  git status
+   17  git commit -m primerCommit
+   18  git status
+   19  git config --global user.email "chuchenko1986@gmail.com"
+   20  git commit -m "primerCommit"
+   21  git push
+   22  git status
+   23  git push
+   24  git status
+   25  git push
+   26  clear
+   27  exit
+   28  vagrant
+   29  vagrant ls
+   30  ls
+   31  ls-la
+   32  ssh-keygen -t ed25519
+   33  ls-la
+   34  .bash_history
+   35  ls
+   36  cd/.ssh
+   37  ls -la
+   38  cd .ssh
+   39  ls
+   40  cat if_ed2559.pub
+   41  cat id_ed25519.pub
+   42  cd ..
+   43  ls
+   44  cd repogit
+   45  ls
+   46  cd mirabelli_vagrant
+   47  cd ..
+   48  cd mirabelli_vagrant/
+   49  ls
+   50  cd ..
+   51  ls
+   52  cd repogit
+   53  ls
+   54  git clone git@github.com:lmirabelli/mirabelli_vagrant.git
+   55  ls
+   56  cd mirabelli_vagrant/
+   57  ls
+   58  history
+   59  history > historial.txt
